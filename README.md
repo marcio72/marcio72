@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fnucci&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcio72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcio72&theme=tokyonight-duo" height="145" alt="marcio72" />
-   
-</div>
-
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcio72&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcio72&theme=chartreuse_dark) |
