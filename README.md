@@ -166,9 +166,28 @@ Sistema corporativo desenvolvido em Java + Spring Boot para gerenciamento comple
 
 ### 📡 Integração com Signal
 
-O sistema possui um serviço de mensageria desenvolvido em Java utilizando **Signal-CLI**, responsável pelo envio automático das solicitações abertas e das execuções concluídas para grupos e usuários do Signal.
+  O sistema possui um serviço de mensageria desenvolvido em Java utilizando **Signal-CLI**, responsável pelo envio automático das solicitações abertas e das execuções concluídas para grupos e usuários do Signal.
+  As mensagens são geradas automaticamente contendo todas as informações relevantes do atendimento, permitindo que a equipe acompanhe em tempo real o andamento das manutenções.
+---
 
-As mensagens são geradas automaticamente contendo todas as informações relevantes do atendimento, permitindo que a equipe acompanhe em tempo real o andamento das manutenções.
+---
+# 💬 Serviço de Mensageria
+
+Um dos diferenciais deste projeto é a integração com o Signal.
+
+Foi desenvolvido um serviço independente utilizando **Java + Spring Boot + Signal-CLI**, responsável por enviar automaticamente notificações para grupos da empresa.
+
+## Funcionalidades
+
+- 📲 Envio automático de solicitações
+- 🔧 Envio automático das execuções
+- 📋 Resumo dos serviços realizados
+- 👥 Comunicação em grupos do Signal
+- ⚡ Notificações em tempo real
+- 🔄 Integração com o sistema principal
+
+Essa integração elimina a necessidade de comunicação manual, garantindo que todas as equipes recebam as informações de forma rápida e organizada.
+
 ---
 
 # 🎓 Formação
@@ -191,25 +210,6 @@ FIAP
 * Serverless
 * Inteligência Artificial
 
----
-# 💬 Serviço de Mensageria
-
-Um dos diferenciais deste projeto é a integração com o Signal.
-
-Foi desenvolvido um serviço independente utilizando **Java + Spring Boot + Signal-CLI**, responsável por enviar automaticamente notificações para grupos da empresa.
-
-## Funcionalidades
-
-- 📲 Envio automático de solicitações
-- 🔧 Envio automático das execuções
-- 📋 Resumo dos serviços realizados
-- 👥 Comunicação em grupos do Signal
-- ⚡ Notificações em tempo real
-- 🔄 Integração com o sistema principal
-
-Essa integração elimina a necessidade de comunicação manual, garantindo que todas as equipes recebam as informações de forma rápida e organizada.
-
----
 
 # 🎯 Objetivo
 
