@@ -1,4 +1,6 @@
-# asset/banner_marcio72_1280.png
+<div align="center">
+  <img src="banner_marcio72_1280.png" alt="Banner Marcio Rezende - Java Backend Developer" />
+</div>
 
 # Olá! Eu sou Marcio Rezende 👋
 
