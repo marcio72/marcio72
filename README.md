@@ -13,15 +13,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor apaixonado por tecnologia, com foco no ecossistema **Java** e desenvolvimento de aplicações completas.
-
 Sou desenvolvedor apaixonado por tecnologia, com foco no ecossistema **Java** e no desenvolvimento de aplicações completas.
 
 Sou **pós-graduado em Arquitetura e Desenvolvimento Java pela FIAP (Pós-Tech)**, formação que consolidou meus conhecimentos em Arquitetura de Software, Microsserviços, Cloud Computing, DevOps, Inteligência Artificial e desenvolvimento de aplicações escaláveis.
 
 Tenho experiência no desenvolvimento de sistemas Web e Mobile, utilizando tecnologias modernas para criar aplicações seguras, performáticas e de fácil manutenção. Estou em constante evolução, estudando novas tecnologias e aplicando boas práticas de engenharia de software em projetos pessoais e profissionais.
-
-Tenho experiência no desenvolvimento de sistemas Web e Mobile, utilizando tecnologias modernas para criar aplicações escaláveis, seguras e de fácil manutenção.
 
 ---
 
@@ -151,16 +147,28 @@ Projeto para geração automática de documentos PDF utilizando Java e iText.
 
 ## 🛠 Sistema de Solicitação de Manutenção
 
-Sistema completo para gerenciamento de solicitações e execução de serviços.
+Sistema corporativo desenvolvido em Java + Spring Boot para gerenciamento completo de solicitações de manutenção, execução de serviços, máquinas, clientes e comunicação em tempo real.
 
-Inclui:
+### Principais recursos
 
-* Controle de usuários
-* Controle de clientes
-* Controle de máquinas
-* Histórico
-* Relatórios
+- Login com Spring Security
+- Controle de usuários
+- Cadastro de clientes
+- Cadastro de máquinas
+- Cadastro de jogos
+- Solicitações de manutenção
+- Execução de serviços
+- Relatórios
+- Geração de PDF
+- Upload de imagens
+- API REST
+- Banco Oracle
 
+### 📡 Integração com Signal
+
+O sistema possui um serviço de mensageria desenvolvido em Java utilizando **Signal-CLI**, responsável pelo envio automático das solicitações abertas e das execuções concluídas para grupos e usuários do Signal.
+
+As mensagens são geradas automaticamente contendo todas as informações relevantes do atendimento, permitindo que a equipe acompanhe em tempo real o andamento das manutenções.
 ---
 
 # 🎓 Formação
@@ -182,6 +190,24 @@ FIAP
 * DevOps
 * Serverless
 * Inteligência Artificial
+
+---
+# 💬 Serviço de Mensageria
+
+Um dos diferenciais deste projeto é a integração com o Signal.
+
+Foi desenvolvido um serviço independente utilizando **Java + Spring Boot + Signal-CLI**, responsável por enviar automaticamente notificações para grupos da empresa.
+
+## Funcionalidades
+
+- 📲 Envio automático de solicitações
+- 🔧 Envio automático das execuções
+- 📋 Resumo dos serviços realizados
+- 👥 Comunicação em grupos do Signal
+- ⚡ Notificações em tempo real
+- 🔄 Integração com o sistema principal
+
+Essa integração elimina a necessidade de comunicação manual, garantindo que todas as equipes recebam as informações de forma rápida e organizada.
 
 ---
 
