@@ -221,7 +221,6 @@ Atualmente continuo aprofundando conhecimentos em:
 * Arquitetura de Software
 * Microsserviços
 * Docker
-* Kubernetes
 * Azure
 * Google Cloud
 * Quarkus
