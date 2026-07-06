@@ -219,7 +219,7 @@ Projeto desenvolvido em Java utilizando iText para geração dinâmica de docume
 Atualmente continuo aprofundando conhecimentos em:
 
 * Arquitetura de Software
-* Microsserviços
+* MicroServiços
 * Docker
 * Azure
 * Google Cloud
