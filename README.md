@@ -163,19 +163,15 @@ Sistema corporativo desenvolvido em Java + Spring Boot para gerenciamento comple
 - Upload de imagens
 - API REST
 - Banco Oracle
-
-### 📡 Integração com Signal
-
-- O sistema possui um serviço de mensageria desenvolvido em Java utilizando **Signal-CLI**, responsável pelo envio automático das solicitações abertas e das execuções concluídas para grupos e usuários do Signal.
-- As mensagens são geradas automaticamente contendo todas as informações relevantes do atendimento, permitindo que a equipe acompanhe em tempo real o andamento das manutenções.
+- Integração com Signal
 ---
 
 ---
 # 💬 Serviço de Mensageria
-
 Um dos diferenciais deste projeto é a integração com o Signal.
+- O sistema possui um serviço de mensageria desenvolvido em Java utilizando **Signal-CLI**, responsável pelo envio automático das solicitações abertas e das execuções concluídas para grupos e usuários do Signal.
+- As mensagens são geradas automaticamente contendo todas as informações relevantes do atendimento, permitindo que a equipe acompanhe em tempo real o andamento das manutenções.
 
-Foi desenvolvido um serviço independente utilizando **Java + Spring Boot + Signal-CLI**, responsável por enviar automaticamente notificações para grupos da empresa.
 
 ## Funcionalidades
 
