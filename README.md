@@ -182,7 +182,7 @@ Um dos diferenciais deste projeto é a integração com o Signal.
 - ⚡ Notificações em tempo real
 - 🔄 Integração com o sistema principal
 
-Essa integração elimina a necessidade de comunicação manual, garantindo que todas as equipes recebam as informações de forma rápida e organizada.
+Essa integração elimina a necessidade de comunicação manual, garantindo que toda a equipe receba a informação de forma rápida e organizada.
 
 ---
 
